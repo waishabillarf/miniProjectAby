@@ -1,0 +1,7 @@
+nav{
+    display: flex;
+    float: right;
+}
+nav ul li {
+    float: right;
+}
